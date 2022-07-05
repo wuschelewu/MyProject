@@ -11,5 +11,7 @@ We are now using git from the shell and from RStudio
 
 the goals I need to meet are:
 
-- [ ] learn git
+- [x] learn git
 - [ ] Learn github
+
+

@@ -1,5 +1,5 @@
 
-# My project 
+# My Carpentry project 
 
 ## Introduction
 
